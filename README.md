@@ -1,2 +1,2 @@
 # scratch-app
-React App from scartch. Incrementally including packages as needed.
+React app from scratch. Opposite of the kitchen sink.
