@@ -4,7 +4,7 @@
   "description": "React app from scratch. Opposite of the kitchen sink.",
   "main": "index.js",
   "scripts": {
-    "test": "echo Replace this with unit tests when up and running..." 
+    "test": "echo Replace this with unit tests when up and running..."
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/nickdaniele/scratch-app/issues"
   },
-  "homepage": "https://github.com/nickdaniele/scratch-app#readme"
+  "homepage": "https://github.com/nickdaniele/scratch-app#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.0.4",
+    "react": "^16.5.2",
+    "webpack": "^4.21.0"
+  }
 }
