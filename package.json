@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/nickdaniele/scratch-app#readme",
   "devDependencies": {
-    "babel": "^6.23.0",
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
     "babel-loader": "^8.0.4",
-    "react": "^16.5.2",
     "webpack": "^4.21.0"
+  },
+  "dependencies": {
+    "react": "^16.5.2"
   }
 }
