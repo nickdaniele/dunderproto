@@ -4,6 +4,7 @@
   "description": "React app from scratch. Opposite of the kitchen sink.",
   "private": true,
   "scripts": {
+    "build": "webpack",
     "test": "echo Replace this with unit tests when up and running..."
   },
   "repository": {
