@@ -2,7 +2,7 @@
   "name": "scratch-app",
   "version": "1.0.0",
   "description": "React app from scratch. Opposite of the kitchen sink.",
-  "main": "index.js",
+  "private": true,
   "scripts": {
     "test": "echo Replace this with unit tests when up and running..."
   },
