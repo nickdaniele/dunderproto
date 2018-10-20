@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "React app from scratch. Opposite of the kitchen sink.",
   "private": true,
+  "sideEffects": [ "*.css" ],
   "scripts": {
     "build": "webpack",
     "watch": "webpack --watch",

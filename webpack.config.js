@@ -23,6 +23,7 @@ module.exports = {
     filename: '[name].bundle.js',
     path: path.resolve(__dirname, 'dist'),
   },
+  mode: 'development',
   module: {
     rules: [
       {
