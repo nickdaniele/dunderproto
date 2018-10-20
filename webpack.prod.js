@@ -7,7 +7,7 @@ module.exports = merge(common, {
   mode: 'production',
   devtool: 'source-map',
   optimization: {
-    minimize: [
+    minimizer: [
       new UglifyJsPlugin({
         cache: true,
         parallel: true,
