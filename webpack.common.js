@@ -7,11 +7,6 @@ module.exports = {
   entry: {
     app: './src/index.js',
   },
-  devtool: 'inline-source-map',
-  devServer: {
-    contentBase: './dist',
-    hot: true,
-  },
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
@@ -23,7 +18,6 @@ module.exports = {
     filename: '[name].bundle.js',
     path: path.resolve(__dirname, 'dist'),
   },
-  mode: 'development',
   module: {
     rules: [
       {
@@ -49,7 +43,7 @@ module.exports = {
         test: /\.(csv|tsv)$/,
         use: [
           'csv-loader',
-        ]
+        ],
       },
       {
         test: /\.xml$/,
