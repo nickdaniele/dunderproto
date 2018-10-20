@@ -21,6 +21,7 @@
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
     "babel-loader": "^8.0.4",
+    "clean-webpack-plugin": "^0.1.19",
     "css-loader": "^1.0.0",
     "csv-loader": "^3.0.2",
     "file-loader": "^2.0.0",
