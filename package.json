@@ -5,6 +5,8 @@
   "private": true,
   "scripts": {
     "build": "webpack",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
     "test": "echo Replace this with unit tests when up and running..."
   },
   "repository": {
@@ -29,6 +31,7 @@
     "style-loader": "^0.23.1",
     "webpack": "^4.21.0",
     "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.9",
     "xml-loader": "^1.2.1"
   },
   "dependencies": {
