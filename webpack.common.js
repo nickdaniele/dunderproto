@@ -5,18 +5,18 @@ const webpack = require('webpack');
 
 module.exports = {
   entry: {
-    app: './src/index.js',
+    app: './src/index.js'
   },
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
-      title: 'Webpack without the kitchen sink',
+      template: './src/index.html'
     }),
-    new webpack.HotModuleReplacementPlugin(),
+    new webpack.HotModuleReplacementPlugin()
   ],
   output: {
     filename: '[name].[hash].js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'dist')
   },
   optimization: {
     runtimeChunk: 'single',
@@ -25,49 +25,55 @@ module.exports = {
         vendor: {
           test: /[\\/]node_modules[\\/]/,
           name: 'vendors',
-          chunks: 'all',
-        },
-      },
-    },
+          chunks: 'all'
+        }
+      }
+    }
   },
   module: {
     rules: [
       {
+        enforce: 'pre',
+        test: /\.js$/,
+        exclude: /node_modules/,
+        loader: 'eslint-loader'
+      },
+      {
         test: /\.js$/,
         include: path.resolve(__dirname, 'src'),
-        loader: 'babel-loader',
+        loader: 'babel-loader'
       },
       {
         test: /\.css$/,
         use: [
           'style-loader',
           'css-loader',
-        ],
+        ]
       },
       {
         test: /\.(png|svg|jpg|gif)$/,
         use: [
-          'file-loader',
-        ],
+          'file-loader'
+        ]
       },
       {
         test: /\.(woff|woff2|eot|ttf|otf)$/,
         use: [
-          'file-loader',
-        ],
+          'file-loader'
+        ]
       },
       {
         test: /\.(csv|tsv)$/,
-        use: [	
-          'csv-loader',
-        ],
+        use: [
+          'csv-loader'
+        ]
       },
       {
         test: /\.xml$/,
         use: [
-          'xml-loader',
-        ],
-      },
-    ],
-  },
+          'xml-loader'
+        ]
+      }
+    ]
+  }
 };
