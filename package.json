@@ -1,7 +1,7 @@
 {
-  "name": "scratch-app",
+  "name": "dunderproto",
   "version": "1.0.0",
-  "description": "React app from scratch. Opposite of the kitchen sink.",
+  "description": "Personal Blog.",
   "private": true,
   "sideEffects": [
     "*.css"
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickdaniele/scratch-app.git"
+    "url": "git+https://github.com/nickdaniele/dunderproto.git"
   },
   "author": "Nick Daniele",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nickdaniele/scratch-app/issues"
+    "url": "https://github.com/nickdaniele/dunderproto/issues"
   },
-  "homepage": "https://github.com/nickdaniele/scratch-app#readme",
+  "homepage": "https://github.com/nickdaniele/dunderproto#readme",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
@@ -39,7 +39,6 @@
     "html-webpack-plugin": "^3.2.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "react": "^16.5.2",
-    "react-native": "^0.57.3",
     "uglifyjs-webpack-plugin": "^2.0.1",
     "webpack": "^4.21.0",
     "webpack-merge": "^4.1.4"
