@@ -29,16 +29,19 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.4",
     "css-loader": "^1.0.0",
+    "csv-loader": "^3.0.2",
     "file-loader": "^2.0.0",
     "style-loader": "^0.23.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9"
+    "webpack-dev-server": "^3.1.9",
+    "xml-loader": "^1.2.1"
   },
   "dependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "html-webpack-plugin": "^3.2.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "react": "^16.5.2",
+    "react-dom": "^16.5.2",
     "uglifyjs-webpack-plugin": "^2.0.1",
     "webpack": "^4.21.0",
     "webpack-merge": "^4.1.4"

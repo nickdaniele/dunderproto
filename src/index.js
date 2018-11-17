@@ -1,1 +1,2 @@
-(function test() { console.log('hello world'); }());
+import React, { Component } from 'react';
+import ReactDOM from "react-dom";
