@@ -1,2 +1,2 @@
-# scratch-app
-React app from scratch. Opposite of the kitchen sink.
+# Blogish app
+Blogish app to mess around with.
