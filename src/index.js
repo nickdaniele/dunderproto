@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Test from '../test';
+import Test from './test';
 
 const Main = () => <div><Test /></div>;
 

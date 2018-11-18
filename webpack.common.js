@@ -7,6 +7,13 @@ module.exports = {
   entry: {
     app: './src/index.js'
   },
+  output: {
+    filename: '[name].[hash].js',
+    path: path.resolve(__dirname, 'dist')
+  },
+  resolve: {
+    extensions: ['.jsx', '.js', '.json']
+  },
   plugins: [
     new CleanWebpackPlugin(['dist']),
     new HtmlWebpackPlugin({
@@ -14,10 +21,6 @@ module.exports = {
     }),
     new webpack.HotModuleReplacementPlugin()
   ],
-  output: {
-    filename: '[name].[hash].js',
-    path: path.resolve(__dirname, 'dist')
-  },
   optimization: {
     runtimeChunk: 'single',
     splitChunks: {
