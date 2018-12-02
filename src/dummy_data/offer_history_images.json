@@ -1,0 +1,437 @@
+{
+  "offer_history": [
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method":null,
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "medias",
+          "added": [
+            "added.jpg"
+          ],
+          "removed": [
+            "removed.jpg"
+          ],
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": null,
+          "added_profiles": null
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "medias",
+          "added": [
+            "added.jpg"
+          ],
+          "removed": [
+            "removed.jpg"
+          ],
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "removed_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "removed_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "removed_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ],
+          "added_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "added_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "added_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "added_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "UPLOAD",
+      "last_modified_source": "somefilename.txt",
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "medias",
+          "added": [
+            "added.jpg"
+          ],
+          "removed": null,
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": null,
+          "added_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "added_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "added_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "added_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": "3427-8962-1344",
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "medias",
+          "added": null,
+          "removed": [
+            "removed.jpg"
+          ],
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "removed_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "removed_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "removed_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ],
+          "added_profiles": null
+        }
+      ]
+    },
+
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "EXTERNAL_SYSTEM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "sponsor_billing_contact",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "CouponsInc",
+          "after": "kroger admin"
+        },
+        {
+          "field_name": "medias",
+          "added": [
+            "added.jpg"
+          ],
+          "removed": [
+            "removed.jpg"
+          ],
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": null,
+          "added_profiles": null
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "sponsor_billing_contact",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "CouponsInc",
+          "after": "kroger admin"
+        },
+        {
+          "field_name": "medias",
+          "added": [
+            "added.jpg"
+          ],
+          "removed": [
+            "removed.jpg"
+          ],
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "removed_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "removed_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "removed_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ],
+          "added_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "added_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "added_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "added_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "sponsor_billing_contact",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "CouponsInc",
+          "after": "kroger admin"
+        },
+        {
+          "field_name": "medias",
+          "added": [
+            "added.jpg"
+          ],
+          "removed": null,
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": null,
+          "added_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "added_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "added_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "added_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": false,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "sponsor_billing_contact",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "CouponsInc",
+          "after": "kroger admin"
+        },
+        {
+          "field_name": "medias",
+          "added": null,
+          "removed": [
+            "removed.jpg"
+          ],
+          "before": null,
+          "after": null,
+          "locale": "en_US",
+          "profile_type": "PRIMARY",
+          "offer_media_type": "IMAGE",
+          "removed_profiles": [
+            {
+              "profile_name": "CUSTOM3",
+              "path": "removed_en_US_100_100.jpg",
+              "media_width": 100,
+              "media_height": 100,
+              "default_usage": true
+            },
+            {
+              "profile_name": "GT5",
+              "path": "removed_en_US_190_190.jpg",
+              "media_width": 190,
+              "media_height": 190,
+              "default_usage": false
+            },
+            {
+              "profile_name": "GT6",
+              "path": "removed_en_US_160_160.jpg",
+              "media_width": 160,
+              "media_height": 160,
+              "default_usage": false
+            }
+          ],
+          "added_profiles": null
+        }
+      ]
+    }
+  ]
+}

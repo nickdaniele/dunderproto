@@ -1,0 +1,98 @@
+{
+  "offer_history": [
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": "YOU Technology",
+      "is_single_locale": true,
+      "snapshot": null,
+      "cloned_offer_id": null,
+      "edits": [
+      	{
+      	  "field_name": "brands",
+      	  "added": [ "Hersheys", "Mars", "Sees" ],
+      	  "removed": [ "Hersheys", "Mars", "Sees" ],
+      	  "before": null,
+      	  "after": null
+      	}
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": "YOU Technology",
+      "is_single_locale": true,
+      "snapshot": null,
+      "cloned_offer_id": null,
+      "edits": [
+      	{
+      	  "field_name": "brands",
+      	  "added": [ "Hersheys", "Mars", "Sees" ],
+      	  "removed": null,
+      	  "before": null,
+      	  "after": null
+      	}
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": "YOU Technology",
+      "is_single_locale": true,
+      "snapshot": null,
+      "cloned_offer_id": null,
+      "edits": [
+      	{
+      	  "field_name": "brands",
+      	  "added": null,
+      	  "removed": [ "Hersheys", "Mars", "Sees" ],
+      	  "before": null,
+      	  "after": null
+      	}
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": "YOU Technology",
+      "is_single_locale": true,
+      "snapshot": null,
+      "cloned_offer_id": null,
+      "edits": [
+      	{
+      	  "field_name": "brands",
+      	  "added": [ "Hersheys", "Mars", "Sees" ],
+      	  "removed": [ "Hersheys", "Mars", "Sees" ],
+      	  "before": null,
+      	  "after": null
+      	},
+      	{
+      	  "field_name": "brands",
+      	  "added": [ "Hersheys", "Mars", "Sees" ],
+      	  "removed": null,
+      	  "before": null,
+      	  "after": null
+      	},
+      	{
+      	  "field_name": "brands",
+      	  "added": null,
+      	  "removed": [ "Hersheys", "Mars", "Sees" ],
+      	  "before": null,
+      	  "after": null
+      	}
+      ]
+    }
+  ]
+}

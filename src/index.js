@@ -1,7 +1,6 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import Test from './test';
+import { render } from 'react-dom';
 
-const Main = () => <div><Test /></div>;
+import App from './components/app';
 
-ReactDOM.render(<Main />, document.getElementById('main'));
+render(<App />, document.getElementById('app'));

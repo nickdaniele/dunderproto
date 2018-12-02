@@ -1,0 +1,355 @@
+{
+  "offer_history": [
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:26:36-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method":null,
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "error_message",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": null,
+          "after": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+        },
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Pending",
+          "after": "Rejected"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:25:02-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Rejected",
+          "after": "Pending"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:25:00-0800",
+      "is_single_locale": true,
+      "snapshot": null,
+      "edits": []
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:13:39-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "error_message",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": null,
+          "after": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham."
+        },
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Pending",
+          "after": "Rejected"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:13:23-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Rejected",
+          "after": "Pending"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T14:13:20-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": []
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T13:28:57-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Pending",
+          "after": "Rejected"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T13:28:31-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Rejected",
+          "after": "Pending"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T13:28:29-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": []
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T13:26:11-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "error_message",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": null,
+          "after": "Reject Reason 3"
+        },
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Pending",
+          "after": "Rejected"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T13:19:12-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Rejected",
+          "after": "Pending"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T13:19:11-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "error_message",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": null,
+          "after": "Reject Reason 2"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T12:49:24-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Pending",
+          "after": "Rejected"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T12:45:22-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Rejected",
+          "after": "Pending"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T12:45:20-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "sponsor_billing_contact",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "CouponsInc",
+          "after": "kroger admin"
+        }
+      ]
+    },
+    {
+      "user_id": "b2d5db0b-f656-4413-9aa8-7e502b8bdb32",
+      "user_email": "echiang@you.net",
+      "username": "eric chiang",
+      "event_date": "2018-02-20T11:28:07-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "retailer_status",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": "Pending",
+          "after": "Rejected"
+        }
+      ]
+    },
+    {
+      "user_id": "a86c8df6-44fb-4734-9cac-8d5b990d6736",
+      "user_email": "mledesma@you.net",
+      "username": "automated offeradmin",
+      "event_date": "2018-02-20T10:31:10-0800",
+      "is_single_locale": true,
+      "last_modified_by_event_method": "FORM",
+      "last_modified_source": null,
+      "cloned_offer_id": null,
+      "snapshot": null,
+      "edits": [
+        {
+          "field_name": "created",
+          "added": null,
+          "removed": null,
+          "edits": null,
+          "before": null,
+          "after": "2018-02-20T10:31:10-0800"
+        }
+      ]
+    }
+  ]
+}
